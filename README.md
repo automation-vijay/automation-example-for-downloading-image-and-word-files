@@ -1,0 +1,1 @@
+# automation-example-for-downloading-image-and-word-files
